@@ -56,7 +56,7 @@ Welcome to the **Awesome Fraud Orchestration Platform** directory. This reposito
 
 These open-source tools provide the foundational building blocks for engineering custom risk decision engines, streaming feature stores, rule execution DAGs, and transaction monitoring pipelines.
 
-*Repositories are sorted below by GitHub Stars_Count in descending order.*
+*Repositories are sorted below by GitHub_Stars_Count in descending order.*
 
 | Project & Link | Stars_Count | Tech Stack | Description & Core Capability |
 | :--- | :--- | :--- | :--- |
